@@ -23,6 +23,10 @@ TODO:
 3) Improve UI  
 
 Screenshots  
-**Welcome Screen**
-![Welcome Screen](screenshots/welcome.png)  
+**Welcome Screen**  
+  
+![Welcome Screen](screenshots/welcome.png) 
+  
+
 ![After Search](screenshots/search.png)  
+
